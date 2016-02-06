@@ -1,0 +1,3 @@
+[submodule "SwiftValidate"]
+	path = SwiftValidate
+	url = https://github.com/dtop/SwiftValidate
