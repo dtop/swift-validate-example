@@ -57,7 +57,7 @@ class ViewController: FormViewController {
     //MARK - SETUP -
     
     /**
-    Setups teh form
+    Setups the form
     */
     private func setupForm() {
         
